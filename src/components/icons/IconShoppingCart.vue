@@ -13,4 +13,3 @@
     />
   </svg>
 </template>
-<h1>lifi</h1>
