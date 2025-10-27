@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto px-4 py-20">
+  <section class="container mx-auto px-16 py-20">
     <UCarousel
       :items="reviews"
       loop
