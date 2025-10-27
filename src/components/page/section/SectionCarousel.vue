@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto px-16 py-12 text-center">
+  <section class="container mx-auto lg:px-16 px-2 py-12 text-center">
     <h2 class="text-xl font-medium mb-6">
       Beautifully Functional. Purposefully Designed. Consciously Crafted.
     </h2>
