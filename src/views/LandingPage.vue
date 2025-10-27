@@ -1,12 +1,13 @@
 <template>
     <SectionHero />
     <SectionCategory />
-    <SectionDeals />
     <SectionMission />
     <SectionCarousel />
     <SectionReviews />
     <SectionBlogs />
     <SectionBuyers />
+    <SectionDeals />
+    <SectionFeatures />
 </template>
 
 <script setup>
@@ -18,4 +19,5 @@ import SectionCarousel from '@/components/page/section/SectionCarousel.vue';
 import SectionReviews from '@/components/page/section/SectionReviews.vue';
 import SectionBlogs from '@/components/page/section/SectionBlogs.vue';
 import SectionBuyers from '@/components/page/section/SectionBuyers.vue';
+import SectionFeatures from '@/components/page/section/SectionFeatures.vue';
 </script>

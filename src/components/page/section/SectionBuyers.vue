@@ -1,5 +1,5 @@
 <template>
-  <section class="container mx-auto px-4 py-16 text-center">
+  <section class="container mx-auto px-16 py-16 text-center">
     <!-- Header -->
     <h2 class="text-2xl md:text-3xl font-medium mb-2">Everlane On You</h2>
     <p class="text-gray-600 text-sm md:text-base mb-4">
